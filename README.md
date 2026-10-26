@@ -74,6 +74,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 
 | Server | Description | Free? |
 |--------|-------------|-------|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local stdio tools for x402 offers, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only | ✅ Software; network/provider fees may apply |
 | [Google Drive MCP](https://github.com/anthropics/mcp-gdrive) | Read Google Drive files | ✅ |
 | [Notion MCP](https://github.com/anthropics/mcp-notion) | Notion pages and databases | ✅ |
 | [Lead Finder MCP](https://apify.com/knotless_cadence/mcp-lead-finder) | Find emails, tech stacks | Apify credits |
